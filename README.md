@@ -80,5 +80,5 @@ Results Summary
 | -------------- | -------------------- | ------------- |
 | Net1           | Small, simple        | ~0.65-0.7     |
 | Net2           | Symmetric, ambiguous | ~0.5–0.6      |
-| rede-sub-a-alt | Well-conditioned     | ~0.85         |
+| rede-sub-a-alt | Well-conditioned     | ~0.90         |
 
