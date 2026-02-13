@@ -76,7 +76,9 @@ Conclusion:
 Leak localization performance depends strongly on network structure
 
 Results Summary
-Network	Characteristics	Test Accuracy
-Net1	Small, simple	High
-Net2	Symmetric, ambiguous	~0.5–0.6
-rede-sub-a-alt	Well-conditioned	~0.90
+| Network        | Characteristics      | Test Accuracy |
+| -------------- | -------------------- | ------------- |
+| Net1           | Small, simple        | ~0.65-0.7     |
+| Net2           | Symmetric, ambiguous | ~0.5–0.6      |
+| rede-sub-a-alt | Well-conditioned     | ~0.90         |
+
